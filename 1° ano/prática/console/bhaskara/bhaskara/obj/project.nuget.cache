@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5lTQnBY4Psjb6M7p4Pcx8zsIru3Q31dht2+P+10zVtSjHPTVt+n/AKMLMh90rZCRaFokVqlPXSrCw//qYFwWQ==",
+  "success": true,
+  "projectFilePath": "G:\\escola\\codigos\\tarefas-escola\\tarefas\\console_form\\C#\\prática\\console\\bhaskara\\bhaskara\\bhaskara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

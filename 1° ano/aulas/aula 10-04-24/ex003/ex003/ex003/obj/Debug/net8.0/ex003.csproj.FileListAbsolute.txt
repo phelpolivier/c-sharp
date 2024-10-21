@@ -1,0 +1,14 @@
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\bin\Debug\net8.0\ex003.exe
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\bin\Debug\net8.0\ex003.deps.json
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\bin\Debug\net8.0\ex003.runtimeconfig.json
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\bin\Debug\net8.0\ex003.dll
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\bin\Debug\net8.0\ex003.pdb
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.AssemblyInfoInputs.cache
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.AssemblyInfo.cs
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.csproj.CoreCompileInputs.cache
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.dll
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\refint\ex003.dll
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.pdb
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ex003.genruntimeconfig.cache
+G:\.net\C#\aula 10-04-24\ex003\ex003\ex003\obj\Debug\net8.0\ref\ex003.dll

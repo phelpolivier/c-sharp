@@ -1,0 +1,7 @@
+G:\.net\C#\aula 14-05-24\media\media\bin\Debug\media.exe.config
+G:\.net\C#\aula 14-05-24\media\media\bin\Debug\media.exe
+G:\.net\C#\aula 14-05-24\media\media\bin\Debug\media.pdb
+G:\.net\C#\aula 14-05-24\media\media\obj\Debug\media.csproj.AssemblyReference.cache
+G:\.net\C#\aula 14-05-24\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+G:\.net\C#\aula 14-05-24\media\media\obj\Debug\media.exe
+G:\.net\C#\aula 14-05-24\media\media\obj\Debug\media.pdb

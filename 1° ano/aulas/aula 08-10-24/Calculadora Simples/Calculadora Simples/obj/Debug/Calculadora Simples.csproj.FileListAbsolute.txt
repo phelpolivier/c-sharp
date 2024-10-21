@@ -1,0 +1,16 @@
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.MainForm.resources
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+G:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.MainForm.resources
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+E:\tarefas\C#\aulas\aula 08-10-24\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb

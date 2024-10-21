@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.net\\C#\\aula 17-04-24\\imc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8309C9-3321-490F-95A9-D5C7917A5D88}|imc\\imc.csproj|g:\\.net\\c#\\aula 17-04-24\\imc\\imc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8309C9-3321-490F-95A9-D5C7917A5D88}|imc\\imc.csproj|solutionrelative:imc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "G:\\.net\\C#\\aula 17-04-24\\imc\\imc\\MainForm.cs",
+              "RelativeDocumentMoniker": "imc\\MainForm.cs",
+              "ToolTip": "G:\\.net\\C#\\aula 17-04-24\\imc\\imc\\MainForm.cs",
+              "RelativeToolTip": "imc\\MainForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:33:59.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

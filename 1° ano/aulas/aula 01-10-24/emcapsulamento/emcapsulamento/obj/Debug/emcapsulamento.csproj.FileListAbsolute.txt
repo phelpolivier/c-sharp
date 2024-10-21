@@ -1,0 +1,6 @@
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\bin\Debug\emcapsulamento.exe.config
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\bin\Debug\emcapsulamento.exe
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\bin\Debug\emcapsulamento.pdb
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\obj\Debug\emcapsulamento.csprojResolveAssemblyReference.cache
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\obj\Debug\emcapsulamento.exe
+G:\escola\codigos\tarefas\C#\aula 01-10-24\emcapsulamento\emcapsulamento\obj\Debug\emcapsulamento.pdb

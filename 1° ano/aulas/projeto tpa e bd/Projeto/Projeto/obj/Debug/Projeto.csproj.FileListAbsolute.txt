@@ -1,0 +1,24 @@
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+G:\1dsn\Projeto\Projeto\bin\Debug\Projeto.exe
+G:\1dsn\Projeto\Projeto\bin\Debug\Projeto.pdb
+G:\1dsn\Projeto\Projeto\bin\Debug\MySql.Data.dll
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.exe
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.pdb
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.Principal.resources
+G:\1dsn\Projeto\Projeto\obj\Debug\Projeto.MainForm.resources
+G:\projeto tpa e bd\Projeto\Projeto\bin\Debug\Projeto.exe.config
+G:\projeto tpa e bd\Projeto\Projeto\bin\Debug\Projeto.exe
+G:\projeto tpa e bd\Projeto\Projeto\bin\Debug\Projeto.pdb
+G:\projeto tpa e bd\Projeto\Projeto\bin\Debug\MySql.Data.dll
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.Cliente.resources
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.MainForm.resources
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.Principal.resources
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.csproj.Up2Date
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.exe
+G:\projeto tpa e bd\Projeto\Projeto\obj\Debug\Projeto.pdb

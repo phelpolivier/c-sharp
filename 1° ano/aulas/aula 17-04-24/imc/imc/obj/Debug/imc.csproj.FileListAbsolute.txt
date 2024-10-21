@@ -1,0 +1,9 @@
+G:\.net\C#\aula 17-04-24\imc\imc\bin\Debug\imc.exe.config
+G:\.net\C#\aula 17-04-24\imc\imc\bin\Debug\imc.exe
+G:\.net\C#\aula 17-04-24\imc\imc\bin\Debug\imc.pdb
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.MainForm.resources
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.exe
+G:\.net\C#\aula 17-04-24\imc\imc\obj\Debug\imc.pdb

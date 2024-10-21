@@ -1,0 +1,5 @@
+D:\.net\C#\hello-world\hello-world\bin\Debug\hello-world.exe
+D:\.net\C#\hello-world\hello-world\bin\Debug\hello-world.pdb
+D:\.net\C#\hello-world\hello-world\obj\Debug\hello-world.csprojResolveAssemblyReference.cache
+D:\.net\C#\hello-world\hello-world\obj\Debug\hello-world.exe
+D:\.net\C#\hello-world\hello-world\obj\Debug\hello-world.pdb

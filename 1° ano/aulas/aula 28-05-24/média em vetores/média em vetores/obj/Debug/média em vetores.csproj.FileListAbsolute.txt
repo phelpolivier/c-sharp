@@ -1,0 +1,5 @@
+D:\.net\C#\aula 28-05-24\média em vetores\média em vetores\obj\Debug\média em vetores.csprojResolveAssemblyReference.cache
+D:\.net\C#\aula 28-05-24\média em vetores\média em vetores\bin\Debug\média em vetores.exe
+D:\.net\C#\aula 28-05-24\média em vetores\média em vetores\bin\Debug\média em vetores.pdb
+D:\.net\C#\aula 28-05-24\média em vetores\média em vetores\obj\Debug\média em vetores.exe
+D:\.net\C#\aula 28-05-24\média em vetores\média em vetores\obj\Debug\média em vetores.pdb

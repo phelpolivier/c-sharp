@@ -1,0 +1,11 @@
+D:\.net\C#\aula 21-05-24\ordenação\bin\Debug\netcoreapp2.1\ordenação.deps.json
+D:\.net\C#\aula 21-05-24\ordenação\bin\Debug\netcoreapp2.1\ordenação.runtimeconfig.json
+D:\.net\C#\aula 21-05-24\ordenação\bin\Debug\netcoreapp2.1\ordenação.runtimeconfig.dev.json
+D:\.net\C#\aula 21-05-24\ordenação\bin\Debug\netcoreapp2.1\ordenação.dll
+D:\.net\C#\aula 21-05-24\ordenação\bin\Debug\netcoreapp2.1\ordenação.pdb
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.csprojAssemblyReference.cache
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.csproj.CoreCompileInputs.cache
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.AssemblyInfoInputs.cache
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.AssemblyInfo.cs
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.dll
+D:\.net\C#\aula 21-05-24\ordenação\obj\Debug\netcoreapp2.1\ordenação.pdb

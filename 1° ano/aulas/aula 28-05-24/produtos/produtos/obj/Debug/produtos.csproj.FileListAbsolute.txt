@@ -1,0 +1,12 @@
+D:\.net\C#\aula 28-05-24\produtos\produtos\bin\Debug\produtos.exe
+D:\.net\C#\aula 28-05-24\produtos\produtos\bin\Debug\produtos.pdb
+D:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.csprojResolveAssemblyReference.cache
+D:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.exe
+D:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.pdb
+G:\.net\C#\aula 28-05-24\produtos\produtos\bin\Debug\produtos.exe.config
+G:\.net\C#\aula 28-05-24\produtos\produtos\bin\Debug\produtos.exe
+G:\.net\C#\aula 28-05-24\produtos\produtos\bin\Debug\produtos.pdb
+G:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.csproj.AssemblyReference.cache
+G:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+G:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.exe
+G:\.net\C#\aula 28-05-24\produtos\produtos\obj\Debug\produtos.pdb
